@@ -28,7 +28,7 @@ A comprehensive fullstack inventory management system built with Java Spring Boo
 
 ### Backend
 - **Java 17**
-- **Spring Boot 3.5.5**
+- **Spring Boot 3.5.6**
 - **Spring Security** (JWT Authentication)
 - **Spring Data JPA** (Database ORM)
 - **PostgreSQL** (Database)
