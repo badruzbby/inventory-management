@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+*.md
+src/
+pom.xml
+mvnw
+mvnw.cmd
+.mvn/
